@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NutriSync</string>
+    <string name="widget_macro_description" translatable="false">Keep your nutrition goals on track without opening the NutriSync.</string>
+    
+    <!-- Stallion -->
+    <string name="StallionProjectId">REPLACE_WITH_NUTRISYNC_STALLION_PROJECT_ID</string>
+    <string name="StallionAppToken">REPLACE_WITH_NUTRISYNC_STALLION_APP_TOKEN</string>
+</resources>
