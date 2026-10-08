@@ -20,3 +20,4 @@ export const FONTS = {
   Regular_400: "PlusJakartaSans-Regular", // 400
   Light_300: "PlusJakartaSans-Light", // 300
 };
+
